@@ -1,4 +1,4 @@
-# Cookbook.dev
+# EVENT MANAGEMENT
 
 ## Find any smart contract, build your project faster
 
